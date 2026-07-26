@@ -7,7 +7,7 @@ function Home() {
   return (
     <div className="main">
       <header className="title">
-        <h1>ברוכה הבאה 💻</h1>
+        <h1>ברוכה הבאה</h1>
       </header>
 
       <div className="buttonGroup">
